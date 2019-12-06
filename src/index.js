@@ -132,4 +132,6 @@ class Game extends React.Component {
       }
       return null;
   }
+
+  export default Game;
   
